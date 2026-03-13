@@ -1,0 +1,1 @@
+{"virtualbox":{"/Bash":{"guestpath":"/Bash","hostpath":"F:/LABS/Dev-Lab/DevOps-Gemini/VMs/BashScript","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"F:/LABS/Dev-Lab/DevOps-Gemini/VMs","disabled":false,"__vagrantfile":true}}}
